@@ -25,9 +25,9 @@ public class TestArry {
 
         }//for
 
-        for (int val:number){
-            System.out.print(val+" ");
-        }
+//        for (int val:number){
+//            System.out.print(val+" ");
+//        }
 //        int num[] = new int[500];
 //        num[-1] = 10;
 

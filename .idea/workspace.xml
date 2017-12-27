@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5d3a7d8c-0b0b-4ca8-a8f2-99f801fa9c70" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop_lab5/InputDataToArray.java" afterPath="$PROJECT_DIR$/src/oop_lab5/InputDataToArray.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,18 +39,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestSwitchCase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oop_lab3/TestSwitchCase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,10 +107,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InputDataToArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="myArrayList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oop_lab5/myArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InputDataToArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop_lab5/InputDataToArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
+            <state relative-caret-position="408">
               <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -557,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513659161602</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="MyArray,arraylist">
+      <created>1514369908097</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1514369908097</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -611,7 +615,8 @@
     <MESSAGE value="Test Studentdata" />
     <MESSAGE value="Test Array" />
     <MESSAGE value="Test DataArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test DataArray" />
+    <MESSAGE value="MyArray,arraylist" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyArray,arraylist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -620,14 +625,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oop_lab3/TestCondition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lab2/TestVariable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1029,6 +1026,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_lab5/InputDataToArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lab5/TestArry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1037,13 +1044,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop_lab5/InputDataToArray.java">
+    <entry file="file://$PROJECT_DIR$/src/oop_lab5/myArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bdcb8cf-72d8-46be-b1ff-5e3a712fa8a2" name="Default" comment="Student app">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lab7/SuperCar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lab7/mySuperCar.java" />
+    <list default="true" id="8bdcb8cf-72d8-46be-b1ff-5e3a712fa8a2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -61,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SuperCar.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SuperCar.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop_lab7/SuperCar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -92,7 +90,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mySuperCar.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mySuperCar.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oop_lab7/mySuperCar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -414,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516677559193</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Supercar">
+      <created>1516682091847</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1516682091847</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -456,7 +461,8 @@
     <MESSAGE value="Midterm test2" />
     <MESSAGE value="Class and ob" />
     <MESSAGE value="Student app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Student app" />
+    <MESSAGE value="Supercar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Supercar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -552,14 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop_lab7/mySuperCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lab7/SuperCar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -586,6 +584,14 @@
             <element signature="e#1374#1375#0" expanded="true" />
             <element signature="e#1412#1413#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_lab7/mySuperCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>

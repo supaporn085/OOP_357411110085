@@ -15,7 +15,7 @@ public class Studant {
                 ", name='" + name + '\'' +
                 '}';
     }//toString
-
+    public static String gender = "Male";
     private String id;
     private String major;
     private String faculty;
@@ -24,7 +24,7 @@ public class Studant {
     //Default constructor
     public  Studant(){}
     //create constructor by owner
-    private Studant(String id,String m,String f,String n){
+   public Studant(String id,String m,String f,String n){
         //assign data to class properties
 
         this.id = id;

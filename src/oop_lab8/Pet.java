@@ -8,6 +8,9 @@ public abstract class Pet {
         this.name = name;
         this.age = age;
     }
+    protected void myPet(){
+        System.out.println(this.name);
+    }
     public abstract void makeNoise();
 
     public String getName() {
